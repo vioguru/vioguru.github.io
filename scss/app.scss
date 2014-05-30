@@ -40,11 +40,14 @@
 //   "foundation/components/visibility";
 
 body {
-    background: #42879C;
+    background: #5296AC;
 
 }
 img {
     margin:10px;
+}
+p {
+    color: #fff;
 }
 
 h1 {
@@ -54,4 +57,10 @@ h1 {
     font-size: 50px;
     margin-top: 150px;
     text-shadow: 1px 1px 1px #6B6B6B;
+}
+
+em {
+    font-style: normal;
+    font-size: 11px;
+    color: #90E9FF;
 }
